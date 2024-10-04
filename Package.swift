@@ -36,6 +36,7 @@ let package = Package(
     targets: [
         // MARK: - MessageKit
 
+        
         .target(
             name: "MessageKit",
             dependencies: ["InputBarAccessoryView"],
